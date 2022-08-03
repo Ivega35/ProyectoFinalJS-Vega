@@ -1,0 +1,60 @@
+[ 
+{
+    "id": 1,
+    "titulo": "Camiseta titular Tatum",
+    "imagen": "../assets/imagenes/camisetaGreen.jpg",
+    "descripcion": "Camiseta titular #0 Jayson Tatum. Original, certificada por la NBA",
+    "precio": 14000
+},
+
+{
+    "id": 2,
+    "titulo": "Camiseta suplente Tatum blanca",
+    "imagen": "../assets/imagenes/camisetaWhite.jpg",
+    "descripcion": "Camiseta suplente #0 Jayson Tatum. Original, certificada por la NBA",
+    "precio": 12000
+},
+{
+    "id": 3,
+    "titulo": "Camiseta titular para mujer",
+    "imagen": "../assets/imagenes/Women.jpg",
+    "descripcion": "Camiseta titular para mujer #0 Tatum original. ",
+    "precio":  12000
+},
+{
+    "id": 4,
+    "titulo": "Buzo de entrenamiento",
+    "imagen": "../assets/imagenes/buzoTrainer.jpg",
+    "descripcion": "buzo con capucha ajustable modelo basketball association",
+    "precio":  22000
+},
+{
+    "id": 5,
+    "titulo": "Buzo Celtic color negro",
+    "imagen": "../assets/imagenes/buzoBlack.jpg",
+    "descripcion": "Buzo con capucha ajustable modelo Dark",
+    "precio":  25000
+},
+{
+    "id": 6,
+    "titulo": "Buzo Mitchell & Ness",
+    "imagen": "../assets/imagenes/buzoMN.jpg",
+    "descripcion": "Buzo con capucha ajustable edicion limitada. Modelo Mitchell and Ness",
+    "precio":  30000
+},
+{
+    "id": 7,
+    "titulo": "Remera de entrenamiento",
+    "imagen": "../assets/imagenes/remeraTrainer.jpg",
+    "descripcion": "Remera de entrenamiento basketball association",
+    "precio":  6000
+},
+{
+    "id": 8,
+    "titulo": "Remera Celtic Essential",
+    "imagen": "../assets/imagenes/remeraEssential.jpg",
+    "descripcion": "Remera 100% algodon City Edition",
+    "precio": 8000
+}
+
+]

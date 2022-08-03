@@ -1,0 +1,158 @@
+*{
+  text-decoration: none;
+}
+body {
+    background-color: #9c9c9c;
+  }
+  .header {
+    z-index: 100;
+  }
+  .menu__cont {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .nav-link {
+    color: #e2d1d1;
+  }
+  .nav-pills .nav-link.active,
+  .nav-pills .show > .nav-link {
+    background-color: rgb(12, 73, 12);
+  }
+  /* home */
+  .main {
+    background: url(../assets/imagenes/InicioBG.jpg);
+    background-size:cover;
+    height: 85vh;
+    width:100%;
+    margin-top: 95px;
+  }
+  .brand__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .neonText {
+    color: rgb(152, 250, 152);
+    text-shadow: 0 0 7px darkolivegreen, 0 0 10px darkolivegreen, 0 0 21px green, 0 0 42px green,
+      0 0 82px rgb(10, 46, 7), 0 0 92px rgb(10, 46, 7), 0 0 102px rgb(10, 46, 7), 0 0 151px rgb(10, 46, 7);
+  }
+  .title {
+    font-family: "Train One", cursive;
+    font-size: 4.5rem;
+  }
+  .sub-title {
+    font-family: "Open Sans Condensed", sans-serif;
+  }
+  .products__title {
+    text-align: center;
+    margin-top: 95px;
+  }
+  .product__card {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    width: 23%;
+  }
+  .card {
+    box-shadow: 5px 5px 15px 5px #000000;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .card-title {
+    margin-bottom: 10px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+  }
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card-text {
+    color: #e2d1d1;
+  }
+  .card__price {
+    color: aliceblue;
+  }
+  
+  .btn {
+    background-color: rgb(12, 73, 12);
+    align-self: center;
+  }
+  
+  /* carrito */
+  .cart-section {
+    padding: 20px;
+  }
+  .cart-container {
+    margin-top: 100px;
+    background-color: black;
+    padding: 20px;
+    color: white;
+  }
+  
+  .compra-finalizada {
+    text-align: center;
+  }
+  
+  .datos-parrafo {
+    text-align: center;
+  }
+  .datos-cliente {
+    display: flex;
+    flex-direction: column;
+  }
+  .producto-carrito {
+    color: rgb(152, 250, 152);
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+  }
+  .car-img {
+    width: 150px;
+    height: 150px;
+  }
+  .total-carrito {
+    display: flex;
+    justify-content: center;
+  }
+  .total {
+    padding: 5px;
+    background-color: rgb(12, 73, 12);
+    border-radius: 5px;
+    margin: 0px 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .contact__secction__item {
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+  }
+  
+  .contact-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  .mensaje-final {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .img-final{
+    
+    height: 85vh;
+    padding-left: 8.5rem;
+  }
+  .salida{
+    font-size: 35px;
+    font-weight: bolder;
+    color:green;
+    padding-left: 37rem;
+    text-decoration: none;
+    
+  }
